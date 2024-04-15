@@ -1,6 +1,6 @@
 -  Hi, I’m @Chriis
 -  I’m interested in games
--  I’m currently learning HTML <img src="www.w3.org/2000/svg" alt="html">, CSS<img src="" alt="css">
+-  I’m currently learning HTML <img src="https://w3.org/2000/svg" alt="html">, CSS<img src="" alt="css">
 -  How to reach me @i.katz (on discord)
 -  Pronouns: he/him
 -  Fun fact: i like cats
