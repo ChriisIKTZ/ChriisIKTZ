@@ -1,6 +1,6 @@
 -  Hi, I’m @Chriis
 -  I’m interested in games
--  I’m currently learning HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="1%">, CSS<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="1%">
+-  I’m currently learning HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="2%">, CSS<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="2%">
 -  How to reach me @i.katz (on discord)
 -  Pronouns: he/him
 -  Fun fact: i like cats
