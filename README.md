@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Chriis
-- 👀 I’m interested in games
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @i.katz (on discord)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like cats
+-  Hi, I’m @Chriis
+-  I’m interested in games
+-  I’m currently learning HTML <img src="www.w3.org/2000/svg" alt="html">, CSS<img src="" alt="css">
+-  How to reach me @i.katz (on discord)
+-  Pronouns: he/him
+-  Fun fact: i like cats
 
 <!---
 ChriisIKTZ/ChriisIKTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
